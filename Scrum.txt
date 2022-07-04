@@ -1,0 +1,37 @@
+Agiler Weg
+ + INdividuen interaktionen vor prozeesen
+ + zusammenarbeit mit dem Kunden
+
+Die 2 Lister in Scrum
+ + Product Backlog:
+	- Story definieren
+	- Jeder müssen schätzen, wie viel Aufwand für die Projekt
+	- Stories sortieren nach Priorität
+ + Sprint Backlog: Wie eine Story umgesetzt wird?
+	- Tasks in Team aufteilen
+ 	- Wie viele Punkte durchschnitt in Team erledigen können
+	- Danach start das Sprint
+
+Die 3 Roller:
+ + Product Owner: 
+	-> entwickelt die Vision des Endprodukts
+	-> ...
+ + Scrum Master: sorg dafür, das Prozess optimal durchführen
+ + Developer: 
+	-> fürht alle Arbeiten und ist dafür verantwortlich
+	-> 5-9 Personen
+	-> definiert den Arbeitsumfang für einen Sprint
+	-> bestimmt, wie die Aufgaben erledigen können
+
+Die 4 Meetings in Scrum: 
+ + Product Backlog -> (Sprint Planning: 4Std) -> Sprint Backlog -> (Daily Scrum: 15mins) -> (Sprint Review: 2Std) -> (Sprint Retrospektive: 1.5Std) -> (Backlog Refinement: 6Std)
+ + Vor dem Meeting Sprint Planning muss immer Product Backlog vorbereiten und definieren
+ + Sprint-Laufzeit: 2 Wochen
+ + Arbeitszeit: 40 Std/Woche
+
+Die 5 Scrum-Prinzipien:
+ + MUT: Jeden im Team muss ehrlich zu sein
+ + Fokus: Alle immer auf die Arbeit beschränken
+ + Engagement: Jeder muss Verantwortlich übernehmen
+ + Respekt
+ + Offenheit: Verbesserung Lösung geben und annehmen

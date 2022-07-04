@@ -1,0 +1,4 @@
+https://12factor.net/
+https://docker-curriculum.com/
+https://portal.neusta.de/confluence/pages/viewpage.action?pageId=18743463
+https://github.com/docker/awesome-compose

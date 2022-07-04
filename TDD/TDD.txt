@@ -1,0 +1,12 @@
+TDD - Test Driven Development
+
+* Maven Dependencies: junit-jupiter, assertj-core
+* Bedingungen: Anforderungen von Kunden
+* Links: 
+	- https://ccd-school.de/coding-dojo/
+	- https://assertj.github.io/doc/
+	- https://junit.org/junit5/docs/current/user-guide/
+* Mockito FrameWork: 
+	- Dependency: org.mockito.Mockito
+	- wichtig: ArgumentCaptor
+	- Git link: https://gitlab.neusta.de/mspiller/tdd-einfuehrung

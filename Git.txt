@@ -1,0 +1,19 @@
+1. Was ist Git?
+	+ open source distributed version
+	+ schneller und effizieter
+2. Git
+	+ Jeder Client hat eine Repository
+	2.1. Main Branch
+		+ git branch -m master main  // doi master thanh main
+		+ git config --global init.defaultBranch main
+	2.2. Branch: 
+		+ new branch: git branch -b dinh
+	2.3. Remove datei
+		+ git rm test2.md
+			=> git rm --cached test2.md // chi xoa commit + datei van con nguyen
+			=> git rm -f test3.md // xoa ca commit lan datei khoi repository
+	2.4. push
+		+ git push --set-upstream origin dinh
+		+ git push --forced // das heißt alles was ich im Lokal hast will ich auch in repository so. Dann überchreibt alles was vom Lokal ins Repository. (Vermeiden!!! ganz vorsichtig!!!)
+	2.5. Git-Spiel:
+		+ unter Link: https://learngitbranching.js.org/?locale=de_DE

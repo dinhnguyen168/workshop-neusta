@@ -1,0 +1,41 @@
+Clean Code Development: 
+ + clean What?
+	- schreiben und strukturieren code dass Menschen verstehen können
+	- weil Sachen, Code, Anforderungen, Hardware ändern sich
+
+ + Ziele: 
+	- Bessere Code haben
+ + Was ist guter Code?
+	- erfüllt die Anforderungen des Kunden
+	- fehlerfrei
+	- lesbar
+	- erweiterbar
+	- stabil
+ + Urheber: Quelle: https://clean-code-deveeloper.de
+ + Der Rote Grad
+	- Grad der CCD Initiative
+ + PRINZIPIEN:
+	- Dont't repeat Yourself
+	- Keep it simple and stupid (KISS)
+	- You aren't gonna need it: schreib nur was Kunden bracht
+		- Wenn ihr merkt das Funktionalität wichtig ist. Erstmal frag ein paar Kollegen ob das gute Idee ist. Dann musst mit Kunden kommunizieren. KOMMUNITION IST WICHTIG!!!!
+	- Vorsicht vor Optimierungen: weil es immer viel Aufwand kosten und überlegen ob es den Code nicht unbedingt verständlicher macht
+		- Rules of Optimization: 
+			+ Rule 1: Mach nichts
+			+ Rule 2 (For expert only): Mach nicht jetzt
+	- Favour COmposition over Inheritance (FCoI): KOmposition fördert die lose Kopplung und die Testbarkeit eines Systems und ist oft flexibler
+ 		- Martin benutzt Vererbung nur für Datenstruktur, sonst meinsten Composition
+		- I will not reuse code through inherritance
+ + Praktiken:
+	- Die Pfadfinderregel beachten: Hinterlasse einen Ort immer in einem besseren Zustand, als du ihn vorgefunden hst.
+	- Root Cause Analysis: Ursachen beheben, statt Symptome zu bekämpfen. Woher kommt der Fehler?
+	- Ein Versionskontrollersystem einsetzen
+		+ Ein Versionskontrollersystem befreit von Angst
+		+ Ein Versionskontrollersystem schützt unsere Arbeit.
+		+ ...
+	- Einfache Refachtoringmuster anwenden
+		+ extract method
+		+ introdeuce variable / extract variable
+		+ rename
+		+ ...
+	

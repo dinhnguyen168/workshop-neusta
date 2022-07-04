@@ -1,0 +1,32 @@
+Maven For Eingsteigers: 
+	+ deklaratives Buildmanagement System heißt: was ich machen soll, wie ich alle gestalten soll
+	+ Dependency Management Tool
+	+ Reporting Tool
+	+ Open source
+	...
+COnvention over Configuration
+	+ feste Verzeichnisstruktur
+	+ feste Lifecycles
+Konfiguaration:
+	+ pom.xml
+	+ User settings.xml
+	+ Global settings.xml
+POM - Project Object Model
+	+ artifactId: die Name der Module die gerade baut
+
+LifeCycle: 
+	+ Default (meistens benutzt)
+	+ Site
+	+ Clean
+	+ links(introductios to the lifecycle): https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference
+
+Dependency Management: 
+	+ Dependencies:
+		- Koordinaten
+		- Scopes: 
+			+ runtime
+			+ compile
+			+ test
+			+ provided
+			+ system (immer schlecht)
+		- 
